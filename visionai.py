@@ -8,7 +8,7 @@ from clarifai.client.model import Model
 from clarifai.client.input import Inputs
 import os
 
-os.environ["CLARIFAI_PAT"] = "aa7f0f2a2d354b7885870965f59e6961"
+os.environ["CLARIFAI_PAT"] = "key"
 
 
 def record_audio():
